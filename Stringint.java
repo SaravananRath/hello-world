@@ -8,9 +8,9 @@ public class Stringint  {
 public static void main(String args[])throws IOException{
 	try{
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-System.out.println("Enter the String");
 Integer n;
 String s="";
+System.out.println("Enter the String");
 String str=br.readLine();
 char a[]=str.toCharArray();
 for(int i=0;i<a.length;i++){
