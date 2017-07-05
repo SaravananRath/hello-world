@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 
 
-public class Main  {
+public class Primecount  {
 public static void main(String args[])throws IOException{
 int rs,re;	
 int sumPrime=0;
