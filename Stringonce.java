@@ -1,3 +1,4 @@
+
 import java.io.*;
 
 public class Stringonce {
@@ -18,3 +19,5 @@ public class Stringonce {
 			if(c[i]!='\0')
 			System.out.print(c[i]);
 		}
+	}
+}
